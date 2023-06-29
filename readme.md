@@ -2,8 +2,8 @@
 
 <p align="center">
 Este é um projeto simples de uma calculadora para me ajudar na prática e no aprendizado da programação.
-  <p>link: https://renansm95.github.io/calculadora/</p>
 </p>
+<p align="center">Link do projeto: https://renansm95.github.io/calculadora/</p>
 
 
 <p align="center">
