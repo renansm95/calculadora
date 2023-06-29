@@ -2,7 +2,9 @@
 
 <p align="center">
 Este é um projeto simples de uma calculadora para me ajudar na prática e no aprendizado da programação.
+  link: https://renansm95.github.io/calculadora/
 </p>
+
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;
